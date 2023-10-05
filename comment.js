@@ -14,4 +14,4 @@ app.use('/user', user);
 app.use('/comment', comment);
 
 app.listen(3000);
-console.log("Server running at http://localhost:3000/");git add comments.js
+console.log("Server running at http://localhost:3000/");
